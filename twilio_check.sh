@@ -29,10 +29,10 @@ fi
 # BANNER
 echo -e '''
 				\e[1;37m
-		     ┌┬┐┬ ┬┬┬  ┬┌─┐   ┌─┐
-		      │ │││││  ││ │───│  
-		      ┴ └┴┘┴┴─┘┴└─┘   └─┘
-		 - LeeTEAM TWILIO CHECKER -
+		     ┌┬┐┬ ┬┬┬  ┬┌─┐   ┌  ┌─┌─
+		      │ │││││  ││ │───│  |─|─
+		      ┴ └┴┘┴┴─┘┴└─┘   └─┘└─└─
+		     -LeeTEAM TWILIO CHECKER-
 '''
 
 # ASK OPTION
